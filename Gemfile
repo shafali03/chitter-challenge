@@ -4,7 +4,7 @@ gem 'rake'
 gem 'rubocop', '0.71.0'
 gem 'sinatra'
 gem 'capybara'
-# require 'capybara/rspec'
+gem 'pg'
 
 
 
